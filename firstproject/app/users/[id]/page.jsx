@@ -1,6 +1,8 @@
 function UsersPage() {
   return (
-    <div>UsersPage</div>
+    <div>
+      <h1>User details</h1>
+    </div>
   )
 }
 
