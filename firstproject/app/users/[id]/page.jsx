@@ -12,7 +12,7 @@ async function UsersPage({params}) {
         <div className="card">
           <div className="card-header text-center">
               <div>
-                <img src={user.avatar}/>
+                <img className="rounded-circle" src={user.avatar}/>
               </div>
           </div>
           <div className="card-body text-center">
